@@ -1,5 +1,5 @@
 body {
-    background: rgba(0, 0, 0, 0.8) url(/img/background.jpg);
+    background: rgba(0, 0, 0, 0.8) url(../img/background.jpg);
     background-size: cover;
     background-blend-mode: darken;
     font-family: Arial, Helvetica, sans-serif;
